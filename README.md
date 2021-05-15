@@ -14,7 +14,7 @@ Change the startup type to manual-->
 Click ok and close the window
 
 
-Step2:Run jenkinS from batch file
+Step3:Run jenkinS from batch file
 
 Copy the .bat file in the repository and double click to run it-->
 Open http://localhost:8080/ in chrome-->
