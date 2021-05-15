@@ -16,4 +16,4 @@ Click ok and close the window
 
 Step2:Run jenkisnfrom batch file
 
-Copy the .bat file in the repository and double clcik to run it. 
+Copy the .bat file in the repository and double click to run it. 
