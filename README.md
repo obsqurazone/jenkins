@@ -14,6 +14,12 @@ Change the startup type to manual-->
 Click ok and close the window
 
 
-Step2:Run jenkisnfrom batch file
+Step2:Run jenkinS from batch file
 
-Copy the .bat file in the repository and double click to run it. 
+Copy the .bat file in the repository and double click to run it-->
+Open http://localhost:8080/ in chrome-->
+Copy initial password displayed in the command line paste it in UI when asked-->
+Proceed with default plugins when asked in the UI-->
+Wait for the plugin instaaltion to complete-->
+Proceed by creating an admin user
+
