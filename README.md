@@ -7,10 +7,10 @@ Proceed and complete the installation
 
 Step2:Disable auto start of service
 
-Go to sevices 
-Right click Jenkins service 
-Click on properties
-Change the startup type to manual
+Go to sevices--> 
+Right click Jenkins service--> 
+Click on properties-->
+Change the startup type to manual-->
 Click ok and close the window
 
 
